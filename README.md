@@ -34,10 +34,10 @@ Give your AI coding assistant (Cursor, Antigravity, Claude Code, or any agent fo
 
 ```bash
 # Using the skills CLI:
-npx skills add <your-github-user>/free-backlink-marketing-skills
+npx skills add sVm19/marketing-and-backlink-skill
 
 # Or clone directly into your project's agent skills directory:
-git clone https://github.com/<your-github-user>/free-backlink-marketing-skills.git .agents/skills/marketing-suite
+git clone https://github.com/sVm19/marketing-and-backlink-skill.git .agents/skills/marketing-suite
 ```
 
 Now, simply tell your agent in chat:
