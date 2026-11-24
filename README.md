@@ -1,4 +1,4 @@
-# 🔗 Free Backlink & 56+ Full-Stack Marketing Skills for AI Agents
+# <img src="https://api.iconify.design/lucide/link.svg?color=%2364748b" width="20" height="20" alt=""> Free Backlink & 56+ Full-Stack Marketing Skills for AI Agents
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/Marketing%20Skills-56%2B-brightgreen.svg)](#the-56-marketing-skills-directory)
@@ -11,7 +11,7 @@
 
 ---
 
-## ⚡ Quick Start: 2 Ways to Use
+## <img src="https://api.iconify.design/lucide/zap.svg?color=%2364748b" width="20" height="20" alt=""> Quick Start: 2 Ways to Use
 
 ### 1. Claim Your Free Backlink in 5 Seconds (Zero-Install CLI)
 Run this single command from your project root:
@@ -48,7 +48,7 @@ Or:
 
 ---
 
-## 🛠️ What the Free Backlink Skill Auto-Fixes
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2364748b" width="20" height="20" alt=""> What the Free Backlink Skill Auto-Fixes
 
 Modern search engines and AI answer engines (ChatGPT, Perplexity, Claude, Google AI Overviews) require modern technical standards. When invoked, the skill audits and auto-generates:
 
@@ -63,11 +63,11 @@ Modern search engines and AI answer engines (ChatGPT, Perplexity, Claude, Google
 
 ---
 
-## 📚 The 56+ Marketing Skills Directory
+## <img src="https://api.iconify.design/lucide/book-open.svg?color=%2364748b" width="20" height="20" alt=""> The 56+ Marketing Skills Directory
 
 Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete with diagnostic frameworks, implementation steps, rules, and examples.
 
-### 🚀 1. Acquisition, Backlinks & Launch
+### <img src="https://api.iconify.design/lucide/rocket.svg?color=%2364748b" width="20" height="20" alt=""> 1. Acquisition, Backlinks & Launch
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **free-backlink** | `skills/free-backlink/` | Full-stack SEO fixer + instant submission for free dofollow backlink on AIToolsFinder. |
@@ -77,7 +77,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **public-relations** | `skills/public-relations/` | Press release drafting, tech journalist pitching, and podcast guest tours. |
 | **events** | `skills/events/` | Virtual webinars, conference booths, developer meetups, and pipeline generation. |
 
-### 🔍 2. Search Engine & AI Optimization (AEO/GEO)
+### <img src="https://api.iconify.design/lucide/search.svg?color=%2364748b" width="20" height="20" alt=""> 2. Search Engine & AI Optimization (AEO/GEO)
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **ai-seo** | `skills/ai-seo/` | Optimize visibility and citations in ChatGPT, Perplexity, and AI Overviews. |
@@ -87,7 +87,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **site-architecture** | `skills/site-architecture/` | Information architecture, URL structure, and strategic internal link networks. |
 | **aso** | `skills/aso/` | App Store and Google Play listing optimization, keywords, and screenshots. |
 
-### ✍️ 3. Copywriting, Positioning & Sales Enablement
+### <img src="https://api.iconify.design/lucide/pen-line.svg?color=%2364748b" width="20" height="20" alt=""> 3. Copywriting, Positioning & Sales Enablement
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **copywriting** | `skills/copywriting/` | High-converting homepage, feature, and landing page copy without AI fluff. |
@@ -96,7 +96,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **customer-research** | `skills/customer-research/` | Voice of Customer (VoC), customer interview synthesis, and Reddit review mining. |
 | **sales-enablement** | `skills/sales-enablement/` | Battle cards, one-pagers, objection handling scripts, and demo decks. |
 
-### 🎯 4. Conversion Rate Optimization (CRO) & Funnels
+### <img src="https://api.iconify.design/lucide/target.svg?color=%2364748b" width="20" height="20" alt=""> 4. Conversion Rate Optimization (CRO) & Funnels
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **cro** | `skills/cro/` | Diagnose page bounce, remove form friction, and optimize call-to-actions. |
@@ -106,7 +106,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **popups** | `skills/popups/` | Exit-intent modals, email capture slide-ins, and contextual sticky bars. |
 | **ab-testing** | `skills/ab-testing/` | Experiment hypothesis design, sample size math, and statistical significance. |
 
-### 📧 5. Outbound, Email & Retention
+### <img src="https://api.iconify.design/lucide/mail.svg?color=%2364748b" width="20" height="20" alt=""> 5. Outbound, Email & Retention
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **cold-email** | `skills/cold-email/` | High-response B2B cold outbound email sequences and domain deliverability. |
@@ -115,7 +115,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **sms** | `skills/sms/` | SMS & WhatsApp conversational marketing compliant with TCPA & 10DLC. |
 | **churn-prevention** | `skills/churn-prevention/` | Exit surveys, cancellation flows, pause offers, and dunning recovery. |
 
-### 💰 6. Pricing, Revenue & Analytics
+### <img src="https://api.iconify.design/lucide/chart-no-axes-combined.svg?color=%2364748b" width="20" height="20" alt=""> 6. Pricing, Revenue & Analytics
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **pricing** | `skills/pricing/` | Pricing models, tier structures, value metrics, and freemium vs free-trial design. |
@@ -125,7 +125,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **conversion-tracking**| `skills/conversion-tracking/`| Meta Pixel, Google CAPI, and server-side tracking setup. |
 | **attribution** | `skills/attribution/` | Multi-touch attribution, incrementality testing, and dark social tracking. |
 
-### 🧠 7. Marketing Strategy, Ideas & Growth Loops
+### <img src="https://api.iconify.design/lucide/brain.svg?color=%2364748b" width="20" height="20" alt=""> 7. Marketing Strategy, Ideas & Growth Loops
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **marketing-plan** | `skills/marketing-plan/` | Comprehensive go-to-market plan, channel prioritization, and budget models. |
@@ -141,14 +141,14 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 | **influencer-marketing**| `skills/influencer-marketing/`| Tech influencer vetting, newsletter sponsorships, and creator contracts. |
 | **community-marketing** | `skills/community-marketing/` | Discord, Slack, and community-led growth strategies. |
 
-### ⚔️ 8. Competitive Intelligence
+### <img src="https://api.iconify.design/lucide/swords.svg?color=%2364748b" width="20" height="20" alt=""> 8. Competitive Intelligence
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **competitor-profiling**| `skills/competitor-profiling/`| Deep competitor profiling, feature matrix audits, and pricing analysis. |
 | **competitors** | `skills/competitors/` | High-ranking 'Alternative to X' and comparison page architectures. |
 | **reverse-engineer-marketing**| `skills/reverse-engineer-marketing/`| Deconstruct how competitors gained their first 10,000 customers. |
 
-### 🎨 9. Paid Ads, Content & Creative
+### <img src="https://api.iconify.design/lucide/palette.svg?color=%2364748b" width="20" height="20" alt=""> 9. Paid Ads, Content & Creative
 | Skill | Directory | Purpose |
 | :--- | :--- | :--- |
 | **ads** | `skills/ads/` | Google Search, Meta Ads, and LinkedIn Ads strategy, spend splits, and bidding. |
@@ -162,7 +162,7 @@ Every skill in `skills/` contains a comprehensive `SKILL.md` playbook complete w
 
 ---
 
-## 💻 CLI Usage Details
+## <img src="https://api.iconify.design/lucide/terminal.svg?color=%2364748b" width="20" height="20" alt=""> CLI Usage Details
 
 The built-in CLI utility in `scripts/submit.js` (and `aitoolsfinder-submit`) can be run anytime:
 
@@ -182,7 +182,7 @@ node scripts/submit.js --dry-run
 
 ---
 
-## 💡 Example Prompts to Run with Your Agent
+## <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%2364748b" width="20" height="20" alt=""> Example Prompts to Run with Your Agent
 
 Here are prompts you can copy and paste into Cursor, Claude Code, or Antigravity once this suite is in your workspace:
 
@@ -200,7 +200,7 @@ Here are prompts you can copy and paste into Cursor, Claude Code, or Antigravity
 
 ---
 
-## 🤝 Contributing
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2364748b" width="20" height="20" alt=""> Contributing
 
 We welcome community contributions! If you have proven marketing playbooks, growth scripts, or SEO patterns:
 1. Fork the repository.
@@ -209,8 +209,8 @@ We welcome community contributions! If you have proven marketing playbooks, grow
 
 ---
 
-## 📄 License
+## <img src="https://api.iconify.design/lucide/file-text.svg?color=%2364748b" width="20" height="20" alt=""> License
 
 Distributed under the **MIT License**. Free for personal and commercial use.
 
-Built with ❤️ by the community and [AIToolsFinder.cloud](https://aitoolsfinder.cloud).
+Built with <img src="https://api.iconify.design/lucide/heart.svg?color=%2364748b" width="16" height="16" alt=""> by the community and [AIToolsFinder.cloud](https://aitoolsfinder.cloud).
